@@ -1,0 +1,2 @@
+# gelarresolusi
+menyimpan resolusi kedpanya
